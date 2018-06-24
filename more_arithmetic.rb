@@ -1,0 +1,15 @@
+srand 19
+puts rand
+puts rand
+puts rand 
+puts (rand(100))
+puts (rand(100))
+puts (rand(100))
+puts ''
+srand 18
+puts rand
+puts rand
+puts rand
+puts (rand(100))
+puts (rand(100))
+puts (rand(100))
