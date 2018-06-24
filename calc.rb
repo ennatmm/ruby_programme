@@ -1,3 +1,1 @@
-puts 'Hello World'
-puts ''
-puts 'Mambla'
+puts 1+2
