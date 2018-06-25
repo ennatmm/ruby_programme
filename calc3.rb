@@ -1,4 +1,4 @@
-myString='Reich die Flasche weiter '
-puts myString *3
-
-
+myString='Reich die Flasche weiter. '
+puts myString
+puts myString
+puts myString
